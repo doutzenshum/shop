@@ -17,7 +17,7 @@
 	<div class="span5">
 		<div class="logo">
 			<a href="http://localhost:8080/mango/">
-				<img src="${pageContext.request.contextPath}/image/r___________renleipic_01/logo.jpg" alt="黄调聪">
+				<img src="${pageContext.request.contextPath}/image/r___________renleipic_01/logo.jpg" alt="">
 			</a>
 		</div>
 	</div>

@@ -2,8 +2,7 @@ package com.hungteshun.shop.user.vo;
 
 /**
  * 用户实体类
- * @author hungteshun黄调聪
- *	
+ *
  */
 public class User {
 

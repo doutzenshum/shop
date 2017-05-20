@@ -54,8 +54,8 @@
 	</div>
 	<div class="copy-rights">
 		<p>
-			Copyright &copy; 2015.Company name All rights reserved.大葱哥个人网站
-			<a href="http://www.hungteshun.com/" target="_blank" title="黄调聪个人网站">大葱哥</a>
+			Copyright &copy; 2015.Company name All rights reserved.
+			<a href="http://www.hungteshun.com/" target="_blank" title=""></a>
 		</p>
 	</div>
 

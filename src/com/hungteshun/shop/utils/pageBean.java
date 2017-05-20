@@ -4,7 +4,6 @@ import java.util.List;
 
 /**
  * 分页对象的封装
- * @author hungteshun黄调聪
  * @param <T>
  *
  */

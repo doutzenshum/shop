@@ -1,10 +1,10 @@
 <%@ page language="java" import="java.util.*" pageEncoding="UTF-8"%>
 <%@ taglib uri="/struts-tags"  prefix="s"%>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>临川大葱哥网上商城</title>
+<title>广东药科大学</title>
 <link href="${pageContext.request.contextPath}/css/slider.css" rel="stylesheet" type="text/css" />
 <link href="${pageContext.request.contextPath}/css/common.css" rel="stylesheet" type="text/css" />
 <link href="${pageContext.request.contextPath}/css/index.css" rel="stylesheet" type="text/css" />
@@ -16,7 +16,7 @@
 			<div class="logo">
 				<a href="./网上商城/index.htm"> <img
 					src="${pageContext.request.contextPath}/image/r___________renleipic_01/logo.jpg"
-					alt="临川大葱哥" />
+					alt="广东药科大学" />
 				</a>
 			</div>
 		</div>
@@ -48,7 +48,7 @@
 		</ul>
     </div>
 		</div>
-		
+
 		<div class="span24">
 			<div id="hotProduct" class="hotProduct clearfix">
 				<div class="title">
@@ -95,18 +95,14 @@
 					<dd>
 						<a target="_blank">购物帮助</a> |
 					</dd>
-					<dd>
-						<a target="_blank">蔬菜卡</a> |
-					</dd>
+					
 					<dd>
 						<a target="_blank">礼品卡</a> |
 					</dd>
 					<dd>
 						<a target="_blank">银联卡</a> |
 					</dd>
-					<dd>
-						<a target="_blank">亿家卡</a> |
-					</dd>
+					
 
 					<dd class="more">
 						<a>更多</a>
@@ -136,9 +132,14 @@
 			</ul>
 		</div>
 		<div class="span24">
-			<div class="copyright">Copyright © 2005-2015 网上商城 版权所有</div>
+			<div class="copyright">Copyright © 2017-2018 网上商城 版权所有</div>
 		</div>
 	</div>
+	<script type="text/javascript" color="0,0,255" opacity="1" z-index: 2 count="110" src="//cdn.bootcss.com/canvas-nest.js/1.0.1/canvas-nest.min.js">
+<canvas style="position: fixed; top: 0px; left: 0px; z-index: 2; opacity: 1;" width="1366" height="297"></canvas>
+<script type="text/javascript" alpha="0.2" src="http://cdn.atool.org/res/ribbon.min.js">
+<canvas width="1366" height="635" style="position: fixed; top: 0px; left: 0px; z-index: 2; width: 100%; height: 100%; pointer-events: none;"></canvas>
+<script type="text/javascript" src="${pageContext.request.contextPath}/js/jquery-1.8.3.js"></script>
 </body>
 <script type="text/javascript" src="${pageContext.request.contextPath}/js/jquery-1.8.3.js"></script>
 <script type="text/javascript" src="${pageContext.request.contextPath}/js/index.js"></script>

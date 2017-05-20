@@ -5,7 +5,6 @@ import java.net.UnknownHostException;
 
 /**
  * 获取本机ip地址
- * @author hungteshun黄调聪
  *
  */
 public class IPAddress {

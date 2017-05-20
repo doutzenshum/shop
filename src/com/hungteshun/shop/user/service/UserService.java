@@ -10,7 +10,6 @@ import com.hungteshun.shop.utils.UUIDUtils;
 
 /**
  * 用户模块的service层
- * @author hungteshun黄调聪
  *
  */
 @Transactional
@@ -36,7 +35,13 @@ public class UserService {
 		String code = UUIDUtils.getUUID()+UUIDUtils.getUUID();
 		user.setCode(code);
 		userDao.save(user);
-		MailUtils.sendMail(user.getEmail(), code);
+
+		StringBuilder page= new StringBuilder("<h1>欢迎来到线上商城，请点击下面的链接完成激活操作!</h1><h3><a href='http://www.doutzen.top/shop/user_active.action?code=");
+		page.append(code.toString());
+		page.append("'>点击");
+		page.append("完成激活操作</a></h3>");
+
+		MailUtils.send(user.getEmail(),page.toString(), "激活");
 	}
 
 	/**

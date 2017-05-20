@@ -6,7 +6,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>大葱哥网上商城</title>
+<title>网上商城</title>
 <link href="${pageContext.request.contextPath}/css/common.css" rel="stylesheet" type="text/css"/>
 <link href="${pageContext.request.contextPath}/css/product.css" rel="stylesheet" type="text/css"/>
 
@@ -16,7 +16,7 @@
 	<div class="span5">
 		<div class="logo">
 			<a href="http://localhost:8080/mango/">
-				<img src="${pageContext.request.contextPath}/image/r___________renleipic_01/logo.jpg" alt="大葱哥">
+				<img src="${pageContext.request.contextPath}/image/r___________renleipic_01/logo.jpg" alt="">
 			</a>
 		</div>
 	</div>

@@ -4,7 +4,6 @@ import java.util.UUID;
 
 /**
  * 生成随机字符串的工具类
- * @author hungteshun黄调聪
  *
  */
 public class UUIDUtils {
