@@ -22,8 +22,7 @@ import com.opensymphony.xwork2.ModelDriven;
 /**
  * 后台商品管理Action
  * 
- * @author hungteshun黄调聪
- * 
+ *
  */
 public class AdminProductAction extends ActionSupport implements
 		ModelDriven<Product> {

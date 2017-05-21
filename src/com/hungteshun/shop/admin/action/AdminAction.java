@@ -14,7 +14,6 @@ import com.opensymphony.xwork2.ModelDriven;
 
 /**
  * 后台管理员登录
- * @author hungteshun黄调聪
  *
  */
 public class AdminAction extends ActionSupport implements ModelDriven<Admin>{

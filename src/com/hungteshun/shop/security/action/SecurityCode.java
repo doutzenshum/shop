@@ -17,7 +17,6 @@ import com.opensymphony.xwork2.ActionSupport;
 
 /**
  * 验证码
- * @author hungteshun黄调聪
  *
  */
 public class SecurityCode extends ActionSupport{

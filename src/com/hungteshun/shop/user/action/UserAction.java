@@ -13,8 +13,7 @@ import com.opensymphony.xwork2.ModelDriven;
 
 /**
  * 
- * @author hungteshun黄调聪
- * 
+ *
  */
 public class UserAction extends ActionSupport implements ModelDriven<User> {
 

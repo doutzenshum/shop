@@ -9,8 +9,7 @@ import com.hungteshun.shop.user.vo.User;
 /**
  * 订单对象
  * 
- * @author hungteshun黄调聪
- * 
+ *
  */
 
 public class Orders {

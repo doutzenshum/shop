@@ -10,7 +10,6 @@ import com.hungteshun.shop.user.vo.User;
 import com.opensymphony.xwork2.ActionSupport;
 /**
  * 购物车模块的action
- * @author hungteshun黄调聪
  *
  */
 public class CartAction extends ActionSupport{

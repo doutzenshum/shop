@@ -14,7 +14,6 @@ import com.opensymphony.xwork2.ModelDriven;
 
 /**
  * 
- * @author hungteshun黄调聪
  *
  */
 public class AdminCategorySecondAction extends ActionSupport implements ModelDriven<CategorySecond>{

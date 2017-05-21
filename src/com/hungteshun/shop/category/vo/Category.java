@@ -8,7 +8,6 @@ import com.hungteshun.shop.categorysecond.vo.CategorySecond;
 
 /**
  * 一级分类实体类
- * @author hungteshun黄调聪
  *
  */
 public class Category implements Serializable{

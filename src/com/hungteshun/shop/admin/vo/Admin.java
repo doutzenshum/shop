@@ -2,7 +2,6 @@ package com.hungteshun.shop.admin.vo;
 
 /**
  * 后台管理员信息表
- * @author hungteshun黄调聪
  *
  */
 public class Admin {

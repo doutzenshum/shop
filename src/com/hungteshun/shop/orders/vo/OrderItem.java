@@ -4,7 +4,6 @@ import com.hungteshun.shop.product.vo.Product;
 
 /**
  * 订单的每一项内容
- * @author hungteshun黄调聪
  *
  */
 public class OrderItem {

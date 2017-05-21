@@ -10,7 +10,6 @@ import com.opensymphony.xwork2.ModelDriven;
 
 /**
  * 商品一级分类action
- * @author hungteshun黄调聪
  *
  */
 public class CategoryAction extends ActionSupport implements ModelDriven<Category>{
