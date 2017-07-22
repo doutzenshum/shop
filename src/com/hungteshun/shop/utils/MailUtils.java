@@ -24,7 +24,7 @@ public class MailUtils {
 	public static final String PROTOCOL = "smtp";
 	public static final int PORT = 25;
 	public static final String FROM = "13192344270@163.com";//发件人的email
-	public static final String PWD = "163,TOM";//发件人密码
+	public static final String PWD = "?";//发件人密码
 	private static Session getSession() {
 		Properties props = new Properties();
 		props.put("mail.smtp.host", HOST);//设置服务器地址
